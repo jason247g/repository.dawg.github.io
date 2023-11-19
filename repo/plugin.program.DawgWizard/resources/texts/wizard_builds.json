@@ -1,0 +1,20 @@
+{
+	"builds": [
+		{
+			"name": "Dawgbuild",
+			"version": "4.0",
+			"url": "https://www.dropbox.com/scl/fi/dvr8jad2i0o4yp6ozd6wm/Dawgbuild-11-18-23.zip?rlkey=s45xg5r9ex2d82ao1i7ugywmq&dl=1",
+			"icon": "https://github.com/jason247g/Dawg/raw/main/icon.png",
+			"fanart"https://raw.githubusercontent.com/jason247g/Dawg/main/fanart.jpg",
+			"description": "Them DAWGS is Hell!"
+		},
+		{
+			"name": "Build 2",
+			"version": "1.0",
+			"url": "http://",
+			"icon": "http://",
+			"fanart": "http://",
+			"description": "The second build. No comma after the curly bracket if this is the last build."
+		}
+	]
+}
